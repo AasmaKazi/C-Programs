@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532599860 source:/home/melayer/C programs/FactorsNo/main.c
+	<stdio.h>
+	<stdlib.h>
+

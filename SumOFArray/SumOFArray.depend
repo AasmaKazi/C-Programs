@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532677394 source:/home/melayer/C programs/SumOFArray/main.c
+	<stdio.h>
+	<stdlib.h>
+

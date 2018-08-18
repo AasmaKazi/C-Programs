@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532599383 source:/home/melayer/C programs/AmstrongNo/main.c
+	<stdio.h>
+	<stdlib.h>
+

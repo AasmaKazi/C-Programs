@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532077255 source:/home/melayer/C programs/SumOfNaturalNo/main.c
+	<stdio.h>
+	<stdlib.h>
+
